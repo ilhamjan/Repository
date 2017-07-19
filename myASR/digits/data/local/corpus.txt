@@ -1,0 +1,4 @@
+بىر ئىككى ئۈچ
+ئىككى ئۈچ تۆت
+ئۈچ تۆت بەش
+#and so on...(which should contain every single utterance transcription that can occur in your ASR system (in our case it will be 100 lines from 100 audio files)
